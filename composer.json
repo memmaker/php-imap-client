@@ -1,0 +1,24 @@
+{
+  "name": "memmaker/php-imap-client",
+  "description": "OO Wrapper class for PHP IMAP functions",
+  "keywords": ["oo", "wrapper", "php", "imap", "simple"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tobias Zeising",
+      "email": "tobias.zeising@aditu.de",
+      "homepage": "http://www.aditu.de/"
+    },
+    {
+      "name": "Felix Ruzzoli",
+      "email": "felix.ruzzoli@lrx-solutions.de",
+      "homepage": "http://lrx-solutions.de"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MemMaker\\Imap\\": "src/Imap"
+    }
+  },
+  "minimum-stability": "stable"
+}
