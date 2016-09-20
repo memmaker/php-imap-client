@@ -1,5 +1,6 @@
 <?php
 
+namespace MemMaker\Mail;
 /**
  * Helper class for imap access
  *
